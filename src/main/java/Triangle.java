@@ -70,6 +70,10 @@ public class Triangle {
             System.out.println(t.determineType());
 
         }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 30e6798 (first commit)
         catch (Exception e)
         {
 
